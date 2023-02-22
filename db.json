@@ -1,0 +1,32 @@
+{
+    "projects":[
+        {
+            "name": "Trip Planner", 
+            "tecnologies": "ReactJS e Firebase", 
+            "repos":"https://github.com/joaoKnisspell/trip-planner", 
+            "vercel":"https://trip-planner-joaoknisspell.vercel.app/", 
+            "image": "/img/img1.png" 
+        },
+        {
+            "name": "Sistema de Empréstimos", 
+            "tecnologies": "ReactJS e Firebase", 
+            "repos":"https://github.com/joaoKnisspell/sistema-de-emprestimos", 
+            "vercel":"https://vercel.com/joaoknisspell/sistema-de-emprestimos", 
+            "image": "/img/img2.png" 
+        },
+        {
+            "name": "CinePrime", 
+            "tecnologies": "ReactJS e API MovieDb", 
+            "repos":"https://github.com/joaoKnisspell/cine-prime", 
+            "vercel":"https://cine-prime.vercel.app/", 
+            "image": "/img/img3.png" 
+        },
+        {
+            "name": "DevFlix", 
+            "tecnologies": "ReactJS e My-json-server", 
+            "repos":"https://github.com/joaoKnisspell/dev-flix", 
+            "vercel":"https://dev-flix-joaoknisspell.vercel.app/", 
+            "image": "/img/img4.png" 
+        }
+    ]
+}
