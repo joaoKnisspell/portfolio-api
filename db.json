@@ -20,13 +20,6 @@
             "repos":"https://github.com/joaoKnisspell/cine-prime", 
             "vercel":"https://cine-prime.vercel.app/", 
             "image": "/img/img3.png" 
-        },
-        {
-            "name": "DevFlix", 
-            "tecnologies": "ReactJS e My-json-server", 
-            "repos":"https://github.com/joaoKnisspell/dev-flix", 
-            "vercel":"https://dev-flix-joaoknisspell.vercel.app/", 
-            "image": "/img/img4.png" 
         }
     ]
 }
