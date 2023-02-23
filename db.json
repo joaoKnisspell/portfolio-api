@@ -12,8 +12,6 @@
             "name": "Formação React com JavaScript", 
             "company": "Alura", 
             "certificate":"https://cursos.alura.com.br/degree/certificate/808c2ed0-3fd6-416c-abcf-2c708a8c90a9", 
-            "start":"",
-            "end": "", 
             "image": "/img/logo2.jfif",
              "text": "Durante a formação React com JavaScript foram realizadas 353 atividades com uma carga horária total de 65 horas. Alguns dos tópicos desenvovidos ao longo da formação: Desenvolvendo React com JavaScript, Como funcionam os componentes, Lidando com arquivos estáticos, Desenvolvendo com a biblioteca React Router, Gerênciamente de estados globais com ContextAPI."
         },
@@ -21,8 +19,6 @@
             "name": "HTML, CSS e JavaScript", 
             "company": "ProgramadorBR", 
             "certificate":"https://certificados.programadorbr.com/certificado/DVWBJGKZ33HT412110",
-            "start":"",
-            "end": "", 
             "image": "/img/logo3.png",
             "text": "No curso HTML, CSS e JavaScript do ProgramadorBR foram apresentados desdes os conceitos iniciais até conceitos mais avançados sobre estas tecnologias. O curso conta com uma carga horária total de 26 horas."
         }
