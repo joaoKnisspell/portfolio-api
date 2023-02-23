@@ -1,5 +1,34 @@
 {
+    "experiences":[
+
+        {
+            "name":"Suporte TI", 
+            "company": "Colégio Israelita Brasileiro", 
+            "certificate":"",  
+            "start":"20/10/2022",
+            "end": "Atualmente",
+            "image": "/img/logo1.jfif" 
+        },
+        {
+            "name": "Formação React com JavaScript", 
+            "company": "Alura", 
+            "certificate":"https://cursos.alura.com.br/degree/certificate/808c2ed0-3fd6-416c-abcf-2c708a8c90a9", 
+            "start":"",
+            "end": "", 
+            "image": "/img/logo2.jfif" 
+        },
+        {
+            "name": "HTML, CSS e JavaScript", 
+            "company": "ProgramadorBR", 
+            "certificate":"https://certificados.programadorbr.com/certificado/DVWBJGKZ33HT412110",
+            "start":"",
+            "end": "", 
+            "image": "/img/logo3.png" 
+        }
+    ],
+
     "projects":[
+
         {
             "name": "Trip Planner", 
             "tecnologies": "ReactJS e Firebase", 
