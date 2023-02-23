@@ -37,7 +37,7 @@
             "name": "Sistema de Empréstimos", 
             "tecnologies": "ReactJS e Firebase", 
             "repos":"https://github.com/joaoKnisspell/sistema-de-emprestimos", 
-            "vercel":"https://sistema-de-emprestimos.vercel.app/", 
+            "vercel":"https://sistema-de-emprestimos-joaoknisspell.vercel.app/", 
             "image": "/img/img2.png" 
         },
         {
